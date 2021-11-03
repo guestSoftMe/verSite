@@ -1,0 +1,3 @@
+desktop.png - shows how the page should look like on 1280px
+tablet.png - shows how the page should look like on 768px
+mobile.png - shows how the page should look like on 414px
